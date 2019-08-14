@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './App';  // App를 메인으로 보겠다.
 import * as serviceWorker from './serviceWorker';
+
+// 부트스트랩
+
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
